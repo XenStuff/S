@@ -1,4 +1,6 @@
 #!/bin/bash
+
+cp hardware/qcom-caf/msm8998/* hardware/qcom-caf/sdm660
 source build/envsetup.sh
 
 # red = errors, cyan = warnings, green = confirmations, blue = informational
