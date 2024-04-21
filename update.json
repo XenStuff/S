@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1230764400,
-      "filename": "ota-package.zip",
-      "id": "5eb63bbbe01eeed093cb22bb8f5acdc3",
+      "datetime": 1713654075,
+      "filename": "lineage-21.0-Ext-Community-Spacewar-20240420-2303.zip",
+      "id": "af6e88ff74ae76df70b7d5a80a8c19de39c34fd850e7d86d9f7134533a6b2001",
       "romtype": "nightly",
-      "size": 314572800,
-      "url": "https://example.com/ota-package.zip",
-      "version": "15.1"
+      "size": 2048875423,
+      "url": "https://pixeldrain.com/api/file/1oLFrRLC",
+      "version": "21.0"
     }
   ]
 }
